@@ -2,9 +2,9 @@ import './App.css';
 import StyledComponent from './StyledComponent';
 import Button1 from './components/Button1';
 import Button2 from './components/Button2';
-import styled, {css} from 'styled-components';
+// import styled, {css} from 'styled-components';
 import TailwindComponent from './TailwindComponent';
-
+/*
 const Container = styled.div`
   display:flex;
 `;
@@ -23,6 +23,7 @@ const Button = styled.button`
       color: white;
     `};
 `;
+*/
 
 function App() {
   return (
