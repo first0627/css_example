@@ -28,9 +28,6 @@ const Button = styled.button`
 function App() {
   return (
     <>
-      <Button1 />
-      <Button2 />
-      <StyledComponent/>
       <TailwindComponent/>
     </>
   );
